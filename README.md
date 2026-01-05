@@ -59,8 +59,7 @@
 
 ### 1. Download
 
-Download the latest release zip file:
-👉 **[og-octane-gaffer.zip](./og-octane-gaffer.zip)**
+Download the latest release zip file
 
 ### 2. Install in Blender
 
